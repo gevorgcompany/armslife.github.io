@@ -1,0 +1,157 @@
+body {
+    background: #32595F;
+}
+#div1 {
+    width: 700px;
+    height: 1000px;
+    border: 1px groove ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#000000;
+}
+#div2 {
+    width: 600px;
+    height: 350px;
+    border: 1px solid #09ff00;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    background-image: url("https://scx1.b-cdn.net/csz/news/800/2019/2-nature.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+}
+#aroxj {
+    color:#FF0800;
+    text-align: left;
+}
+#aroxj1 {
+    color: #FF0800;
+    text-align: left;
+}
+#div3 {
+    width: 300px;
+    height: 530px;
+    border: 1px solid #09ff00;
+    margin-left: 50px;
+    margin-top: 20px;
+    float: left;
+}
+#aroxj2 {
+    font-style: italic;
+    color: #09ff00
+}
+#text {
+    color:rgb(0, 38, 255);
+}
+#gev1 {
+    color: darkorange;
+    text-align: bottom;
+}
+.divaj {
+    width: 300px;
+    height: 180px;
+    border: 1px groove #09ff00;
+    overflow: hidden;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+#menuh1 {
+    color: #09ff00;
+    font-style: italic;
+}
+#a1 {
+    color: #FF0800;
+    margin-left: 15px;
+    font-size: 25px;
+    font-style: italic;
+}
+#a2 {
+    color: #FF0800;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-style: italic;
+}
+#a3 {
+    color: #FF0800;
+    margin-left: 15px;
+    margin-top: 27px;
+    font-size:25px;
+    font-style: italic;
+}
+#a1:hover{
+    color: rgb(0, 38, 255);
+    font-size: 32px;
+}
+#a2:hover{
+    color: rgb(0, 38, 255);
+    font-size: 32px;
+}
+#a3:hover{
+    color: rgb(0, 38, 255);
+    font-size: 32px;
+}
+
+#divtak {
+    width: 300px;
+    height: 170px;
+    border: 1px groove #09ff00;
+    margin-top: 20px;
+    float: right;
+    margin-right: 20px;
+}
+#kap {
+    color: #09ff00;
+    font-style: italic;
+}
+#mail {
+    font-size: 25px;
+    color: #FF0800;
+    margin-left: 20px;
+}
+#mail:hover {
+       color: rgb(0, 38, 255);
+       font-size: 32px;
+}
+#tel {
+    color: #FF0800;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#tel:hover{
+    color: rgb(0, 38, 255);
+    font-size: 32px;
+}
+#soc {
+    width: 300px;
+    height: 118px;
+    border: 1px groove #09ff00;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+#soch2 {
+    color: #09ff00;
+    font-style: italic;
+}
+#a4 {
+    color: #FF0800;
+    font-size: 25px;
+    font-style: italic;
+}
+#a5 {
+    color: #FF0800;
+    font-size: 25px;
+    font-style: italic;
+    margin-left: 30px;
+}
+#a4:hover{
+    color: rgb(0, 38, 255);
+    font-size: 32px;
+}
+#a5:hover{
+    color: rgb(0, 38, 255);
+    font-size: 32px;
+}
